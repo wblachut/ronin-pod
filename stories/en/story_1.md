@@ -5,12 +5,12 @@
 ### The Road into the Marshes
 
 To reach the next village, you must cross the mountains. But a landslide has buried the only pass.
-Locals tell you there is another way — through the marshes — but none who enter return.
-A grand manor rises nearby, surrounded by fields of gold and carved stone tombs. Within lives a noble family known for wealth and sorrow. The young Lord greets you with courtesy, though his voice carries unease.
-He tells you that his late father once knew the safe route across the marshes, but after his death, travelers vanished there. He begs you to uncover the cause.
-That night, while preparing your boat by the misted shore, faint Hitodama drift above the water — pale, flickering lights like souls searching for rest.
+Locals tell you there is another way — through the marshes.
+A grand manor rises nearby, surrounded by fields of carved stone tombs ornamented with gold. Within lives a noble family known for their wealth. The young Lord greets you with courtesy, though his voice carries sadness.
+He tells you that the passage across the marshes is not safe anymore, travelers vanish there. He asks you to uncover the cause.
+That night, while preparing your boat by the misted shore, faint Hitodama drift above the water — pale, flickering lights like souls searching for rest. They seem like inviting you to follow them
 
-You must decide: follow the ghostly lights now, or wait for dawn and a local guide.
+You must decide: follow the ghostly lights now, or wait for dawn and wait for appointed local guide.
 
 #### ♣ Choice 1 — Exploration vs Diplomacy
 
