@@ -10,15 +10,15 @@ Los zagnal Cie do jaskini krasowej w pieknej okolicy. W mroku dostrzegasz migotl
 
 Stoicie u podnóża majestatycznego wulkanu, a wioska w dole jest w płomieniach. Z magmowych szczelin wyłaniają się ogniste istoty - chaos i energia, które rzucają się na mieszkańców wioski. Musicie coś zrobić!
 
-#### ♣ Wybór 1 — Magia vs Diplomacy
- _Rezultat dla postaci pierwszego gracza, głosują wszyscy_
+#### ♣ Wybór 1 — Magia vs Dyplomacja ( _Rezultat dla postaci pierwszego gracza, głosują wszyscy_ )
 
 Chcesz powstrzymać istoty magią czy… rozkazem?
 
 <details>
 <summary>✨ Magia</summary>
-
 Podnosisz rękę, jakbyś rzucał zaklęcie. Czujesz pulsacje bransolety - dawno temu odnalezionej w jaskini — istoty zatrzymują się i przestają atakować, wpatrując się w ciebie z zaciekawieniem. Czujesz dziwną więź z tymi stworzeniami, jakby rozumiały twoje myśli.
+
+...
 
 </details>
 
@@ -47,6 +47,8 @@ Czy wyciagniesz miecz w obronie tych stworzen czy moze postarasz sie najpierw od
 <summary>🗡 Walka</summary>
 
 Obiecujesz, że im pomożesz. Wspinając się na stoki, od razu zauważasz ogrom problemu — lodowe żywiolaki są w przytlaczajacej liczebosci, a padająca śnieżyca ogranicza widoczność. Każdy ruch wymaga maksymalnej koncentracji. Walka meczy cię szybko, a z każdą chwilą staje się jasne, że równowaga między żywiołami została poważnie zachwiana, a twój wysiłek to ledwie kropla w morzu tego problemu. Wycofujecie sie z trudem. Wracacie do wioski i opowiadacie wszystko starcowi.
+
+...
 
 </details>
 
@@ -99,6 +101,11 @@ Jesteście szybsi niż on — mag podnosi ręce do góry i tłumaczy, że nic z�
 Mag szybko stuka kosturem w ziemię i przywołuje ciężkie mgły, które ograniczają widoczność. Pyta Was czemu go niepokoicie i rzada odpowiedzi.
 
 </details>
+
+...
+...
+...
+
 </details>
 
 <details>
@@ -110,19 +117,19 @@ Podnosisz ręce, dając znać, że nie szukasz konfliktu.
 
 <!-- with Diplomacy -->
 
-<details>
-<summary>🤝 → 🔍 Eksploracja dominująca:</summary>
+ <details>
+ <summary>🤝 → 🔍 Eksploracja dominująca:</summary>
 
 Mag teleportuje się nagle przy oslepiajacym błysku, pozostawiając na ziemi żabę. Ku twojemu zdumieniu po chwili przemawia ona ludzkim głosem, zachęcając cię do przedstawienia planów i intencji.
 
-</details>
+ </details>
 
-<details>
-<summary>🤝 → ✨ Magia dominująca:</summary>
+ <details>
+ <summary>🤝 → ✨ Magia dominująca:</summary>
 
 Mag rzuca zaklęcie rozpoznania i tłumaczenia — ujawnia, że nie jest stąd i chce dowiedziec sie dlaczego go niepokoicie.
 
-</details>
+ </details>
 </details>
 
 ### Zakończenie
